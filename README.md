@@ -1,2 +1,2 @@
 # hello-world
-my name is yasir yay
+my name is Yasir yay
